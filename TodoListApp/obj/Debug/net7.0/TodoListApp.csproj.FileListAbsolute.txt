@@ -1,0 +1,15 @@
+/workspaces/TodoList/TodoListApp/bin/Debug/net7.0/TodoListApp
+/workspaces/TodoList/TodoListApp/bin/Debug/net7.0/TodoListApp.deps.json
+/workspaces/TodoList/TodoListApp/bin/Debug/net7.0/TodoListApp.runtimeconfig.json
+/workspaces/TodoList/TodoListApp/bin/Debug/net7.0/TodoListApp.dll
+/workspaces/TodoList/TodoListApp/bin/Debug/net7.0/TodoListApp.pdb
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.csproj.AssemblyReference.cache
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.AssemblyInfoInputs.cache
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.AssemblyInfo.cs
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.csproj.CoreCompileInputs.cache
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.dll
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/refint/TodoListApp.dll
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.pdb
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/TodoListApp.genruntimeconfig.cache
+/workspaces/TodoList/TodoListApp/obj/Debug/net7.0/ref/TodoListApp.dll
